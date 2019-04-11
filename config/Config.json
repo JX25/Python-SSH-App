@@ -1,0 +1,10 @@
+{
+ "local_directory" : "D:\\pliki\\",
+ "remote_directory": "/home/ubuntu/pliki/",
+ "server_address": "172.16.10.101",
+ "port": 22,
+ "username": "ubuntu",
+ "mode" : "overwrite|update|add_non_existing",
+ "ignore" : ["java","pl","cpp"]
+
+}
